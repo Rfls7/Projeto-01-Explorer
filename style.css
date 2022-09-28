@@ -1,0 +1,72 @@
+/* Body */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; 
+}
+
+header img {
+  margin-bottom: 72px;
+}
+
+/* Título */
+
+h1 { 
+  text-align: center; 
+  font-family: 'Inter', sans-serif;
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 49px;
+  line-height: 56px;
+  margin-bottom: 32px;
+
+}
+
+h1 span {
+  font-weight: bold;
+  color: #FF9900;
+}
+
+/* Main */
+
+main {
+  font-size: 14px;
+  color: #7D7987;
+  width: 592px;
+  margin: 0 auto 72px;
+}
+
+main strong {
+  font-size: 14px;
+  line-height: 28px;
+  font-weight: bold;
+}
+
+main span {
+  color: #FF9900;
+}
+
+/* Footer */
+
+#Linha {
+  margin: 0 auto 8px;
+}
+
+a {
+  font-size: 14px;
+  color: #FF9900;
+  margin-bottom: 32px;
+}
+
+footer div a + a {
+  margin-left: 28px;
+}
+
+#Balls {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  opacity: 0.5;
+}
+
